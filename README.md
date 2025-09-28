@@ -5,16 +5,23 @@
 <table>
 <tr>
 <td width="50%">
- A B O U T - M E: 
-
-💻 Passionate about Web Development with hands-on experience in backend of modern web apps <br>
-💭 Quote I live by: "The more you sweat in peace, the less you bleed in war" <br>
-🔥 Actively working on exciting projects and competitions<br>
-🌱 Always exploring new tech, patterns, and frameworks<br>
-📫 Reach me at ruhankb29@gmail.com<br>
-⚡ Fun fact: I write clean, scalable, and consistent code!<br>
-
+  <div style="font-family: 'Courier New', Courier, monospace; font-size:13px; font-style:italic; color:#A9FEF7; line-height:1.6;">
+    <div align="center">
+      <strong style="font-size:16px; color:#FFD700;">A B O U T - M E</strong>
+    </div>
+    <br>
+    💻 Passionate about Web Development with particular interest in backend of modern web apps <br>
+    💭 Quote I live by: "The more you sweat in peace, the less you bleed in war" <br>
+    🔥 Actively working on exciting projects and competitions<br>
+    🌱 Always exploring new tech, patterns, and frameworks<br>
+    📫 Reach me at ruhankb29@gmail.com<br>
+    <br>
+    <br>
+  </div>
 </td>
+
+
+
 <td width="50%">
 <div align="center">
   <img alt="Cool Coder GIF" width="350" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif">
@@ -109,5 +116,3 @@
 </div>  
 
 </div>
-
-
