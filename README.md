@@ -1,25 +1,30 @@
-# Hi there, I'm RUHAN K.B. 👋  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;PSG+Tech+Student;Passionate+Learner;Building+Amazing+Web+Apps!" alt="Animated typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hello+World;I+Am+Ruhan;Full+Stack+Developer;PSG+Tech+Student;Passionate+Learner;Building+Amazing+Web+Apps!" alt="Animated typing" />
 </div>
 
-<img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align="right" alt="Matrix Code" width="300" src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif">
+
 
 ##  About Me  
--  Passionate about **Full-Stack Development** with hands-on experience in modern web apps.  .  
--  Quote I live by: *"The more you sweat in peace, the less you bleed in war"*  
--  Actively working on exciting projects and competitions.  
--  Always exploring new tech, patterns, and frameworks.  
--  Reach me at **ruhankb29@gmail.com**  
--  Fun fact: I write **clean, scalable, and consistent code!**  
+-  Passionate about **Full-Stack Development** with hands-on experience in modern web apps.
+  
+-  Quote I live by: *"The more you sweat in peace, the less you bleed in war"*
+  
+-  Actively working on exciting projects and competitions.
+  
+-  Always exploring new tech, patterns, and frameworks.
+    
+-  Reach me at **ruhankb29@gmail.com**
+  
+-  Fun fact: I write **clean, scalable, and consistent code!**
+
+    
 
 <br clear="right"/>
 
 ---
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="700"/>
-</div>
+
 ## 🛠️ Tech Stack & Arsenal  
 
 <div align="center">
@@ -48,7 +53,10 @@
 </div>
 
 ---
-
+<div align ="center">
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+</div>
+---
 ## 📊 GitHub Stats  
 
 <div align="center">
@@ -84,7 +92,7 @@
 <div align="center">
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ruhan-2908&theme=github-aurora&area=true" alt="Particle Graph" width="700"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ruhan-2908&theme=react-dark" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00FFAA&center=true&vCenter=true&width=700&lines=Keep+Coding!;Contribute+Daily;Build+Your+Portfolio!" alt="Typing Animation" width="700"/>
 
