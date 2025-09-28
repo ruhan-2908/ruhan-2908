@@ -28,6 +28,7 @@
 </div>
 
 
+
 ## 🛠️ Tech Stack & Arsenal  
 
 <div align="center">
@@ -55,24 +56,41 @@
 
 </div>
 
----
+
+
 <div align ="center">
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 
+
 ## 📊 GitHub Stats  
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ruhan-2908&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+</td>
+<td width="50%">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhan-2908&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" />
+</td>
+</tr>
+</table>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhan-2908&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+
+
+
+
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruhan-2908&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhan-2908&layout=compact&langs_count=8&theme=tokyonight" />
-</div>  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruhan-2908&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" />
+</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhan-2908&theme=tokyonight" alt="GitHub Streak" />
-</div>  
 
----
 
 ## 🌐 Connect With Me  
 
@@ -91,13 +109,6 @@
   </a>
 </div>  
 
----
-
-<div align="center">
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ruhan-2908&theme=react-dark" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00FFAA&center=true&vCenter=true&width=700&lines=Keep+Coding!;Contribute+Daily;Build+Your+Portfolio!" alt="Typing Animation" width="700"/>
-
 </div>
+
+
