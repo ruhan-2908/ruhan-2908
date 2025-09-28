@@ -1,9 +1,8 @@
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hello+World;I+Am+Ruhan;Full+Stack+Developer;PSG+Tech+Student;Passionate+Learner;Building+Amazing+Web+Apps!" alt="Animated typing" />
 </div>
 
-<img align="right" alt="Matrix Code" width="300" src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif">
+<img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 
 ##  About Me  
@@ -18,8 +17,6 @@
 -  Reach me at **ruhankb29@gmail.com**
   
 -  Fun fact: I write **clean, scalable, and consistent code!**
-
-    
 
 <br clear="right"/>
 
