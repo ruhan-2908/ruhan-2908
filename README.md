@@ -7,7 +7,7 @@
 <td width="50%">
  A B O U T - M E: 
 
-💻 Passionate about Full-Stack Development with hands-on experience in modern web apps <br>
+💻 Passionate about Web Development with hands-on experience in backend of modern web apps <br>
 💭 Quote I live by: "The more you sweat in peace, the less you bleed in war" <br>
 🔥 Actively working on exciting projects and competitions<br>
 🌱 Always exploring new tech, patterns, and frameworks<br>
@@ -23,9 +23,11 @@
 </tr>
 </table>
 <br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruhan-2908&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<div align ="center">
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 </div>
+
 
 
 
@@ -58,9 +60,6 @@
 
 
 
-<div align ="center">
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
-</div>
 
 
 
