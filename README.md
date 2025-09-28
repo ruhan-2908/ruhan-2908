@@ -1,25 +1,32 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hello+World;I+Am+Ruhan;Full+Stack+Developer;PSG+Tech+Student;Passionate+Learner;Building+Amazing+Web+Apps!" alt="Animated typing" />
 </div>
+<br/>
+<table>
+<tr>
+<td width="50%">
+ A B O U T - M E: 
 
-<img align="right" alt="Cool Coder GIF" width="300" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif">
+💻 Passionate about Full-Stack Development with hands-on experience in modern web apps <br>
+💭 Quote I live by: "The more you sweat in peace, the less you bleed in war" <br>
+🔥 Actively working on exciting projects and competitions<br>
+🌱 Always exploring new tech, patterns, and frameworks<br>
+📫 Reach me at ruhankb29@gmail.com<br>
+⚡ Fun fact: I write clean, scalable, and consistent code!<br>
 
-##  About Me  
--  Passionate about **Full-Stack Development** with hands-on experience in modern web apps.
-  
--  Quote I live by: *"The more you sweat in peace, the less you bleed in war"*
-  
--  Actively working on exciting projects and competitions.
-  
--  Always exploring new tech, patterns, and frameworks.
-    
--  Reach me at **ruhankb29@gmail.com**
-  
--  Fun fact: I write **clean, scalable, and consistent code!**
+</td>
+<td width="50%">
+<div align="center">
+  <img alt="Cool Coder GIF" width="350" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif">
+</div>
+</td>
+</tr>
+</table>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruhan-2908&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
 
-<br clear="right"/>
-
----
 
 ## 🛠️ Tech Stack & Arsenal  
 
@@ -52,7 +59,8 @@
 <div align ="center">
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 </div>
----
+
+
 ## 📊 GitHub Stats  
 
 <div align="center">
