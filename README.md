@@ -2,8 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hello+World;I+Am+Ruhan;Full+Stack+Developer;PSG+Tech+Student;Passionate+Learner;Building+Amazing+Web+Apps!" alt="Animated typing" />
 </div>
 
-<img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-
+<img align="right" alt="Cool Coder GIF" width="300" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif">
 
 ##  About Me  
 -  Passionate about **Full-Stack Development** with hands-on experience in modern web apps.
