@@ -50,8 +50,7 @@
 
 ### Frameworks & Libraries
 [![SpringBoot](https://img.shields.io/badge/SpringBoot-000000?style=for-the-badge&logo=springboot&logoColor=white)](https://springboot.com/) 
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) 
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) 
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-47A248?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.com/) 
 
 ### Tools & Technologies
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) 
