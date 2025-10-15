@@ -49,8 +49,8 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ### Frameworks & Libraries
-[![SpringBoot](https://img.shields.io/badge/SpringBoot-000000?style=for-the-badge&logo=springboot&logoColor=white)](https://springboot.com/) 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-47A248?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.com/) 
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 ### Tools & Technologies
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) 
