@@ -10,11 +10,11 @@
       <strong style="font-size:16px; color:#FFD700;">A B O U T - M E</strong>
     </div>
     <br>
-    💻 Passionate about Web Development with particular interest in backend of modern web apps <br>
-    💭 Quote I live by: "The more you sweat in peace, the less you bleed in war" <br>
-    🔥 Actively working on exciting projects and competitions<br>
-    🌱 Always exploring new tech, patterns, and frameworks<br>
-    📫 Reach me at ruhankb29@gmail.com<br>
+     --Passionate about Web Development with particular interest in backend of modern web apps <br>
+     --Quote I live by: "The more you sweat in peace, the less you bleed in war" <br>
+     --Actively working on exciting projects and competitions<br>
+     --Always exploring new tech, patterns, and frameworks<br>
+     --Reach me at ruhankb29@gmail.com<br>
     <br>
     <br>
   </div>
