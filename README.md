@@ -52,6 +52,7 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) 
 [![VSCode](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) 
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 </div>
@@ -77,7 +78,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruhan-2908&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
-## Connect With Me  
+## 🌐 Connect With Me  
 
 <div align="center">
   <a href="https://ruhan-2908.github.io/My_Portfolio/" target="_blank">
