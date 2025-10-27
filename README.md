@@ -58,20 +58,21 @@
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
 </div>
-
+ 
 ## GitHub Stats  
 <div align="center">
 <table>
 <tr>
 <td width="50%">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ruhan-2908&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ruhan-2908&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Ruhan's GitHub Stats" />
 </td>
 <td width="50%">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhan-2908&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" />
+  <img height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ruhan-2908&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </td>
 </tr>
 </table>
 </div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhan-2908&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
@@ -79,6 +80,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruhan-2908&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
+
 
 ## Connect With Me  
 
