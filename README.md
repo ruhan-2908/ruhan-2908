@@ -20,8 +20,6 @@
   </div>
 </td>
 
-
-
 <td width="50%">
 <div align="center">
   <img alt="Cool Coder GIF" width="350" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif">
@@ -35,10 +33,7 @@
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-
-
-
-## 🛠️ Tech Stack & Arsenal  
+## Tech Stack & Arsenal  
 
 <div align="center">
 
@@ -59,16 +54,11 @@
 [![VSCode](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) 
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Render](https://img.shields.io/badge/Render-1E1E1E?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
-
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 </div>
 
-
-
-
-
-
-## 📊 GitHub Stats  
+## GitHub Stats  
 <div align="center">
 <table>
 <tr>
@@ -85,18 +75,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhan-2908&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-
-
-
-
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruhan-2908&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
-
-
-## 🌐 Connect With Me  
+## Connect With Me  
 
 <div align="center">
   <a href="https://ruhan-2908.github.io/My_Portfolio/" target="_blank">
@@ -112,5 +95,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>  
-
-</div>
