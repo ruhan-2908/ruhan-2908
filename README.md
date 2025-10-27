@@ -61,16 +61,16 @@
  
 ## GitHub Stats  
 <div align="center">
-<table>
-<tr>
-<td width="50%">
-  <img height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ruhan-2908&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Ruhan's GitHub Stats" />
-</td>
-<td width="50%">
-  <img height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ruhan-2908&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</td>
-</tr>
-</table>
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img height="195px" src="https://github-readme-stats.vercel.app/api?username=ruhan-2908&show_icons=true&theme=tokyonight&hide_border=true" alt="Ruhan's GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhan-2908&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
