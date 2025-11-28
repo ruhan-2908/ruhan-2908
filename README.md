@@ -35,34 +35,40 @@
 
 
 ## Tech Stack & Arsenal  
-
+ 
 <div align="center">
-  <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60" style="margin: 10px;"/></a>
-  <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60" height="60" style="margin: 10px;"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" height="60" style="margin: 10px;"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" height="60" style="margin: 10px;"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" style="margin: 10px;"/></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60" height="60" style="margin: 10px;"/></a>
-  <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60" style="margin: 10px;"/></a>
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" style="margin: 10px;"/></a>
-  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60" height="60" style="margin: 10px;"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60" height="60" style="margin: 10px;"/></a> 
-  <a href="https://spring.io/projects/spring-boot"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="60" height="60" style="margin: 10px;"/></a>
-  <a href="https://hibernate.org/"><img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" width="60" height="60" style="margin: 10px;" alt="Hibernate Logo"/></a>
-  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60" style="margin: 10px;"/></a>
-  <a href="https://expressjs.com/">
-  <img src="https://skillicons.dev/icons?i=express" 
-       width="60" height="60" style="margin: 10px;" 
-       alt="Express.js Logo"/>
-</a>
-  <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" height="60" style="margin: 10px;"/></a> 
-  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60" style="margin: 10px;"/></a>
-  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60" height="60" style="margin: 10px;"/></a>
-  <a href="https://www.eclipse.org/ide/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="60" height="60" style="margin: 10px;"/></a>
-  <a href="https://www.jetbrains.com/idea/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="60" height="60" style="margin: 10px;"/></a>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" height="60" style="margin: 10px;"/></a>
-  <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60" height="60" style="margin: 10px;"/></a>
+
+  
+  <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60" style="margin:10px;"/></a>
+  <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60" height="60" style="margin:10px;"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" height="60" style="margin:10px;"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" height="60" style="margin:10px;"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" style="margin:10px;"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60" height="60" style="margin:10px;"/></a>
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" style="margin:10px;"/></a>
+  <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60" style="margin:10px;"/></a>
+  <a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite" width="60" height="60" style="margin:10px;" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" height="60" style="margin:10px;"/></a>
+  <a href="https://spring.io/projects/spring-boot"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="60" height="60" style="margin:10px;"/></a>
+  <a href="https://hibernate.org/"><img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" width="60" height="60" style="margin:10px;" /></a>
+  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60" style="margin:10px;"/></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="60" height="60" style="margin:10px;"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60" height="60" style="margin:10px;"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60" height="60" style="margin:10px;"/></a>
+  <a href="https://maven.apache.org/"><img src="https://skillicons.dev/icons?i=maven" width="60" height="60" style="margin:10px;"/></a>
+  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60" style="margin:10px;"/></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="60" height="60" style="margin:10px;"/></a>
+  <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60" height="60" style="margin:10px;"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60" height="60" style="margin:10px;"/></a>
+  <a href="https://www.eclipse.org/ide/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="60" height="60" style="margin:10px;"/></a>
+  <a href="https://www.jetbrains.com/idea/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="60" height="60" style="margin:10px;"/></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" width="60" height="60" style="margin:10px;"/></a>
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="60" height="60" style="margin:10px;"/></a>
+  <a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu" width="60" height="60" style="margin:10px;"/></a>
+
 </div>
+
+
 
 ## GitHub Stats  
 <div align="center">
