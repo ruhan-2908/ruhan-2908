@@ -54,7 +54,7 @@
 <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60" height="60" style="margin:10px;"/></a>
 <a href="https://maven.apache.org/"><img src="https://cdn.simpleicons.org/apachemaven/C71A36" width="60" height="60" style="margin:10px;background:#000000;padding:8px;border-radius:8px;"/></a>
 <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60" style="margin:10px;"/></a>
- <a href="https://www.docker.com/"><img src="https://cdn.simpleicons.org/docker/FFFFFF" width="60" height="60" style="margin:10px;background:#2496ED;padding:8px;border-radius:8px;"/></a>
+<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" height="60" style="margin: 10px;"/></a>
 <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60" height="60" style="margin:10px;"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60" height="60" style="margin:10px;"/></a>
 <a href="https://www.eclipse.org/ide/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="60" height="60" style="margin:10px;"/></a>
