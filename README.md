@@ -33,11 +33,10 @@
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-
 ## Tech Stack & Arsenal  
 <div align="center"> 
 <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60" style="margin:10px;"/></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.icons8.com/color/96/000000/c-programming.png" width="60" height="60" style="margin:10px;filter:brightness(0.8) contrast(1.2);"/>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.icons8.com/color/96/000000/c-programming.png" width="60" height="60" style="margin:10px;filter:brightness(0.8) contrast(1.2);"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" height="60" style="margin:10px;"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" height="60" style="margin:10px;"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" style="margin:10px;"/></a>
@@ -63,8 +62,12 @@
 <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="60" height="60" style="margin:10px;"/></a>
 <a href="https://www.linux.org/"><img src="https://cdn.simpleicons.org/linux/FCC624" width="60" height="60" style="margin:10px;"/></a>
 <a href="https://ubuntu.com/"><img src="https://cdn.simpleicons.org/ubuntu/E95420" width="60" height="60" style="margin:10px;"/></a>
+<a href="https://render.com/"><img src="https://cdn.simpleicons.org/render/46E3B7" width="60" height="60" style="margin:10px;"/></a>
+<a href="https://vercel.com/"><img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="60" height="60" style="margin:10px;background:#000000;padding:8px;border-radius:8px;"/></a>
 
 </div>
+
+
 ## GitHub Stats  
 <div align="center">
   <table width="100%">
