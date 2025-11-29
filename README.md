@@ -57,6 +57,7 @@
 <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" height="60" style="margin: 10px;"/></a>
 <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60" height="60" style="margin:10px;"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60" height="60" style="margin:10px;"/></a>
+<a href="https://www.vim.org/"><img src="https://cdn.simpleicons.org/vim/019733" width="60" height="60" style="margin:10px;" /></a>
 <a href="https://www.eclipse.org/ide/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="60" height="60" style="margin:10px;"/></a>
 <a href="https://www.jetbrains.com/idea/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="60" height="60" style="margin:10px;"/></a>
 <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="60" height="60" style="margin:10px;"/></a>
