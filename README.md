@@ -9,7 +9,7 @@ I am a computer science student with a strong interest in backend systems and mo
 - Consistent learner exploring modern frameworks and tooling  
 
 📫 **Contact:** ruhankb29@gmail.com  
-🌐 **Portfolio:** https://ruhan-2908.github.io/My_Portfolio/  
+🌐 **Portfolio:** https://ruhankb.vercel.app/
 🔗 **LinkedIn:** https://www.linkedin.com/in/ruhankb29/
 
 
