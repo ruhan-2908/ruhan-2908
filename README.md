@@ -8,9 +8,10 @@ I am a computer science student with a strong interest in backend systems and mo
 - Actively working on academic, personal, and competitive projects  
 - Consistent learner exploring modern frameworks and tooling  
 
-📫 **Contact:** ruhankb29@gmail.com  
-🌐 **Portfolio:** https://ruhankb.vercel.app/
-🔗 **LinkedIn:** https://www.linkedin.com/in/ruhankb29/
+**Contact:** ruhankb29@gmail.com  
+**Portfolio:** https://ruhankb.vercel.app/  
+**LinkedIn:** https://www.linkedin.com/in/ruhankb29/
+
 
 
 ## Tech Stack
