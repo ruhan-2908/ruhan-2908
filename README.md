@@ -12,7 +12,6 @@ I am a computer science student with a strong interest in backend systems and mo
 🌐 **Portfolio:** https://ruhan-2908.github.io/My_Portfolio/  
 🔗 **LinkedIn:** https://www.linkedin.com/in/ruhankb29/
 
----
 
 ## Tech Stack
 
@@ -33,7 +32,6 @@ I am a computer science student with a strong interest in backend systems and mo
 <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48"/></a>
 </div>
 
----
 
 ## GitHub Activity
 
