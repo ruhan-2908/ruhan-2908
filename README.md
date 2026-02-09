@@ -1,6 +1,6 @@
 # Ruhan K. B.
 
-**Full Stack Developer | PSG College of Technology**
+**Full Stack Developer**
 
 I am a computer science student with a strong interest in backend systems and modern web application development.  
 I enjoy building reliable, scalable applications and continuously improving my understanding of software architecture, APIs, and databases.
