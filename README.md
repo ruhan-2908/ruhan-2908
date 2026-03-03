@@ -1,5 +1,7 @@
 # Ruhan K. B.
 
+> "Talk is cheap. Show me the code."
+
 **Full Stack Developer**
 
 I am a computer science student with a strong interest in backend systems and modern web application development.  
