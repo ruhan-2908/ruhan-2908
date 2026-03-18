@@ -11,7 +11,6 @@ I enjoy building reliable, scalable applications and continuously improving my u
 - Actively working on academic, personal, and competitive projects  
 - Consistent learner exploring modern frameworks and tooling  
 
----
 
 ## Tools and Technologies
 
@@ -37,23 +36,26 @@ I enjoy building reliable, scalable applications and continuously improving my u
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
 
 ## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ruhan-2908&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<p>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ruhan-2908&show_icons=true&theme=transparent&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&icon_color=a855f7&hide_border=true&border_radius=15&ring_color=a855f7" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ruhan-2908&layout=compact&theme=transparent&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&hide_border=true&border_radius=15" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhan-2908&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<a href="https://github.com/ruhan-2908">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhan-2908&theme=transparent&background=0d1117&ring=00e5ff&fire=a855f7&currStreakLabel=00e5ff&sideLabels=c9d1d9&sideNums=00e5ff&currStreakNum=c9d1d9&dates=555555&hide_border=true&border_radius=15" width="600" />
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhan-2908&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ruhan-2908&theme=tokyo-night&hide_border=true" width="100%"/>
+<a href="https://github.com/ruhan-2908">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruhan-2908&bg_color=0d1117&color=00e5ff&line=a855f7&point=00e5ff&area=true&area_color=4B0082&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
+</a>
 
 </div>
 
----
 
 ## Achievements
 
@@ -62,7 +64,6 @@ I enjoy building reliable, scalable applications and continuously improving my u
 - Strong academic foundation in computer science fundamentals  
 - Continuous problem-solving practice via coding platforms  
 
----
 
 ## Connect & Profiles
 
